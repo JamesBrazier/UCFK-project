@@ -1,4 +1,6 @@
-Authors: Fan Yang (fya33), James Brazier (jbr185)
+Through this was a group project I ended up doing all the work
+
+Author: James Brazier (jbr185)
 Date: 29  September 2018
 Game type: Rock Paper Scissors
 
