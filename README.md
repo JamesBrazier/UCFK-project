@@ -14,7 +14,7 @@ How it works:
  - After a choice is made, players exchange IR signals that contains the information of their choice, either 'R', 'P', or 'S'
  - Once the signal is received, each player will receive a feedback of either Win, Lose or Draw once the IR signal is processed, number of lives will decrement by 1 if Lose, no change if Draw or Win
  - Each Player will also be able to view their remaining lives by pushing the up or down on the navswitch, players start with 3 lives currently
- - The game completes when one player reaches 0 lives, they will then send a defeat signal of 'D' to the other player to complete the game on thier board
+ - The game completes when one player reaches 0 lives, they will then send a defeat signal of 'D' to the other player to complete the game on their board
  - Then the game returns to the welcome screen
 
 If, at any point, the partner board hasn't connected or hasn't received your move, press s2 button to resend signal
